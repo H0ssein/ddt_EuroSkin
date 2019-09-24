@@ -3,6 +3,7 @@
 - Zet het mapje EuoSkin in je resources 
 - Zet : start EuroSkin in je Server.cfg
 - Start de server!
+- Voorbeeld : https://streamable.com/sue85
 
 Dutch Development Team Algemene Voorwaarden:
 Discord: https://discord.gg/xNh3TpS
